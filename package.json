@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "englines": {
+        "node": ">=16.9.0"
+   },
   "author": "",
   "license": "ISC",
   "dependencies": {
